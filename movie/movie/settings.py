@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^n5mkx#5!p5=b+dvori%=-qac-zuivc1x3ekl3fbmiafqv699b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [wolkusmovi.herokuapp.com]
 
 
 # Application definition
